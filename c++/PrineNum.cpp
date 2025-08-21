@@ -14,7 +14,7 @@ int main() {
     cout << "Enter size of array: ";
     cin >> n;
 
-    int arr[n];
+    int *arr = new int[n];
     cout << "Enter elements: ";
     for (int i = 0; i < n; i++) cin >> arr[i];
 
