@@ -18,7 +18,7 @@ int main() {
     cout << "Enter elements: ";
     for (int i = 0; i < n; i++) cin >> arr[i];
 
-    cout << "Prime numbers: ";
+    cout << "Prime numbers: ";                  
     for (int i = 0; i < n; i++) {
         if (isPrime(arr[i])) cout << arr[i] << " ";
     }

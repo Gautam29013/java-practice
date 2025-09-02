@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "java apna clg_67e5cf1e"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "java apna clg_67e5cf1e"
+        },
+        {
+            "type": "java",
+            "name": "fibonacciSequance",
+            "request": "launch",
+            "mainClass": "fibonacciSequance",
+            "projectName": "java apna clg_67e5cf1e"
+        },
+        {
+            "type": "java",
             "name": "Arry",
             "request": "launch",
             "mainClass": "Arry",

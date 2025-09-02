@@ -1,3 +1,4 @@
+
 public class Recursion3 {
     public static void moveAllx(String str , int idx , int count , String newString){
 
