@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "throus",
+            "request": "launch",
+            "mainClass": "throus",
+            "projectName": "java apna clg_67e5cf1e"
+        },
+        {
+            "type": "java",
             "name": "Geeks1",
             "request": "launch",
             "mainClass": "Geeks1",
