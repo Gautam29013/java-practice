@@ -25,4 +25,4 @@ class Fan implements Adjustable {
     public int getLevel() {
         return speedLevel;
     }
-}             vo
+}             
