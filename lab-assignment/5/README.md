@@ -176,7 +176,7 @@ The system handles various exceptions:
 
 **Issue**: File not saving  
 **Solution**: Check file permissions in the project directory
-
+ 
 **Issue**: Data not persisting  
 **Solution**: Always use option 6 to save before exiting
 
